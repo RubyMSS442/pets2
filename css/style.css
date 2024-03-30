@@ -312,6 +312,7 @@ h2{
     background-size: cover;
     position: absolute;
     right: 0px;
+    opacity: 0;
     border: 1px solid white;
     animation: dog 20s infinite ;
     position: absolute;
